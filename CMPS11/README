@@ -1,0 +1,3 @@
+CMPS11: Module de la boussole
+Contient: gyroscope - accéléromètre - magnétomètre - thermomètre
+Communication: Serial / BUS I2C
